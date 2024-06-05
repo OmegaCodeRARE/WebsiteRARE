@@ -1,0 +1,22 @@
+body {
+    background: url('http://1337raptors.tech/wp-content/uploads/2024/06/lab1-scaled.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: limegreen;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.centered-text {
+    text-align: center;
+    margin-top: 20%;
+}
